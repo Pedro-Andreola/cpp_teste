@@ -13,5 +13,6 @@ int main(){
     cout << "\n O numero faz parte da sequencia de fibonacci";
   }else{
     cout << "\n O numero nao faz parte da sequencia de fibonacci";
-  }  
+  }
+  return 0;
 }
